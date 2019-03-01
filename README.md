@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#This boilerplate is simple to understand how redux can be initilize and used with redux.
 
 ## Available Scripts
 
